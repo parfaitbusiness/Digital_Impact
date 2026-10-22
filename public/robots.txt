@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://digital-impact.formationworkersdev.workers.dev/sitemap.xml
